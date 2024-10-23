@@ -1,6 +1,6 @@
 """
 CSC111 Project 2
-Group members: Colleen Chang, Richard Li, Roy Liu, Mina (Chieh-Yi) Wu
+Group members: Colleen Chang, Richard Lin, Roy Liu, Mina (Chieh-Yi) Wu
 
 File Description
 =============================================================================
