@@ -1,6 +1,6 @@
 """
 CSC111 Project 2: Wrap Mapped, Unpacked
-Authors: Colleen Chang, Richard Li, Roy Liu, Mina (Chieh-Yi) Wu
+Authors: Colleen Chang, Richard Lin, Roy Liu, Mina (Chieh-Yi) Wu
 
 File Description
 =============================================================================
